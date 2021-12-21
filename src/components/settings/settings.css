@@ -1,0 +1,59 @@
+.ant-modal, .ant-modal-content {
+    /*height: 100vh;*/
+    /*width: 90% !important;*/
+    /*//margin: 0;*/
+    /*//top: 0;*/
+}
+/*.ant-modal-body {*/
+/*    height: calc(100vh - 110px);*/
+/*}*/
+.add-sim-location-modal {
+    width: 75%;
+    margin-left: 15rem;
+}
+
+.ant-popover{
+    max-height: 30rem !important;
+    overflow-y: scroll !important; 
+}
+.custom-button{
+    background-color: #fec632;
+    border-radius: 5px;
+    box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+    box-shadow: 0px 4px 6px #d9d9d9;
+}
+.custom-button:hover{
+    background-color: white;
+    color: #fec632;
+    outline: none;
+    border: none;
+    box-shadow: 0px 4px 6px #d9d9d9;
+    border: 1px solid #fec632;
+}
+.custom-button:focus{
+    background-color: white;
+    color: #fec632;
+    outline: none;
+    border: none;
+    box-shadow: 0px 4px 6px #d9d9d9;
+    border: 1px solid #fec632;
+}
+
+.icon-button{
+    background-color: white;
+    color: black;
+    outline: none;
+    border: none;
+    box-shadow: 0px 4px 6px #d9d9d9;
+    border: 1px solid black;
+}
+.is-active{
+    color: #1890ff!important;
+}
+/*.ant-list-item-meta-title > a:active {*/
+/*    color: #fec632;*/
+/*}*/
+.ant-checkbox-group-item {
+   /*// margin-left: 8px;*/
+    display: flex;
+}
